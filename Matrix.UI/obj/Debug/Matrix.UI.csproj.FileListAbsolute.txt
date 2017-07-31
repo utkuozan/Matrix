@@ -1,0 +1,12 @@
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\bin\Debug\Matrix.UI.exe.config
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\bin\Debug\Matrix.UI.exe
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\bin\Debug\Matrix.UI.pdb
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\bin\Debug\Matrix.Library.dll
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\bin\Debug\Matrix.Library.pdb
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\obj\Debug\Matrix.UI.csprojResolveAssemblyReference.cache
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\obj\Debug\Matrix.UI.Form1.resources
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\obj\Debug\Matrix.UI.Properties.Resources.resources
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\obj\Debug\Matrix.UI.csproj.GenerateResource.Cache
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\obj\Debug\Matrix.UI.exe
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\obj\Debug\Matrix.UI.pdb
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.UI\obj\Debug\Matrix.UI.frmInverse.resources

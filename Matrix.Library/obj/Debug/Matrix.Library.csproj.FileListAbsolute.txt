@@ -1,0 +1,5 @@
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.Library\bin\Debug\Matrix.Library.dll
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.Library\bin\Debug\Matrix.Library.pdb
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.Library\obj\Debug\Matrix.Library.csprojResolveAssemblyReference.cache
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.Library\obj\Debug\Matrix.Library.dll
+C:\Users\utkuo\Source\Repos\Matrix\Matrix.Library\obj\Debug\Matrix.Library.pdb
